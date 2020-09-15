@@ -4,6 +4,7 @@ const colorTypeB = document.querySelectorAll("input")[1]
 let colorLeft = null, colorRight = null;
 
 //event
+//change for side work branch test
 
 colorTypeA.addEventListener("input", function (event) {
     colorLeft = event.target.value
